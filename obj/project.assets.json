@@ -47,11 +47,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/moha/Projects/DevOps/Devops/Devops.csproj",
+      "projectUniqueName": "/Users/moha/Projects/DevOps/Devops.csproj",
       "projectName": "Devops",
-      "projectPath": "/Users/moha/Projects/DevOps/Devops/Devops.csproj",
+      "projectPath": "/Users/moha/Projects/DevOps/Devops.csproj",
       "packagesPath": "/Users/moha/.nuget/packages/",
-      "outputPath": "/Users/moha/Projects/DevOps/Devops/obj/",
+      "outputPath": "/Users/moha/Projects/DevOps/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/moha/.nuget/NuGet/NuGet.Config"

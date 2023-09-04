@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Devops
 build_property.RootNamespace = Devops
-build_property.ProjectDir = /Users/moha/Projects/DevOps/Devops/
+build_property.ProjectDir = /Users/moha/Projects/DevOps/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/moha/Projects/DevOps/Devops
+build_property.MSBuildProjectDirectory = /Users/moha/Projects/DevOps
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/moha/Projects/DevOps/Devops/Pages/Error.cshtml]
+[/Users/moha/Projects/DevOps/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/moha/Projects/DevOps/Devops/Pages/_ViewImports.cshtml]
+[/Users/moha/Projects/DevOps/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
