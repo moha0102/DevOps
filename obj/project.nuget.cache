@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFEg3MvSHUuBB6AXAuffxZHjiXjAAkwpO+H/iI4EkN980Y78OUDXHBzw3pW3Z38VSJfptKu2SkzG7WXLKuFOIA==",
+  "success": true,
+  "projectFilePath": "/Users/moha/Projects/DevOps/Devops/Devops.csproj",
+  "expectedPackageFiles": [
+    "/Users/moha/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.10/microsoft.aspnetcore.spaproxy.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
